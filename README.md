@@ -31,14 +31,11 @@ Credits: https://github.com/rossja/TinyNuke
 - Adjusted Window Size for "Start Powershell"
 - Added Prompt for Port to Listen On
 
-# Demo of HVNC Window:
-View Demo Video: https://vimeo.com/597459719
 
-![Image1](https://i.ibb.co/JxMn3j4/image.png)
 
 # Contact Me:
 
 
-Telegram: [Melteddd](https://t.me/Melteddd)
+Telegram: [My telegram](https://t.me/Evilcockatoo)
 
 
