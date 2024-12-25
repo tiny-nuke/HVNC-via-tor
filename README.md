@@ -36,6 +36,6 @@ Credits: https://github.com/rossja/TinyNuke
 # Contact Me:
 
 
-Telegram: [My telegram](https://t.me/Evilcockatoo)
+Telegram: [My telegram](https://t.me/TheSkynetCorporation)
 
 
